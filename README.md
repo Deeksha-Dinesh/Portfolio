@@ -1,3 +1,5 @@
+Portfolio
+
 This is a personal portfolio website built using HTML, CSS, and JavaScript. It showcases my skills, projects, learning journey, and contact details.
 
 🔹 Sections
